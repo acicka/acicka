@@ -1,6 +1,8 @@
-## Hello 
+## QUIÉN SOY 
 
-Mi nombre es Ariel, soy de Ushuaia, Argentina y soy Especialista en Telecomunicaciones y Redes.
+Soy especialista en telecomunicaciones y Redes con más de 10 años de experiencia, poseo habilidades para la resolución de problemas, soy proactivo y me enfoco en la satisfacción de clientes internos y externos.
+
+Poseo experiencia en diseño e implementación de proyectos de infraestructura.
 
 * Trabajo en RS & Winning.
 
@@ -11,4 +13,4 @@ Mi nombre es Ariel, soy de Ushuaia, Argentina y soy Especialista en Telecomunica
 
 ## Contacto
 
-Find all of my socials and resume in my [website](https://cicka.com.ar)
+Find all of my socials and resume in my [website](https://cicka.com.ar) & https://ipampa.com.ar
