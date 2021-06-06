@@ -4,8 +4,6 @@ Soy especialista en telecomunicaciones y Redes con más de 10 años de experienc
 
 Poseo experiencia en diseño e implementación de proyectos de infraestructura.
 
-* Trabajo en RS & Winning.
-
 ## Skills
 
 * Investigando contenedores desde marzo 2021.
