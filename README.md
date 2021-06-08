@@ -11,4 +11,4 @@ Poseo experiencia en diseño e implementación de proyectos de infraestructura.
 
 ## Contacto
 
-Find all of my socials and resume in my [website] (https://cicka.com.ar) & [website] https://ipampa.com.ar
+Podés encontrar todos mis datos y cv en mi [website](https://www.cicka.com.ar)
